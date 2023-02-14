@@ -8,5 +8,6 @@ You can use this code to monitor your SSL ceritificates easily within AWS Lambda
 - Node.js 16.x Environment 
 - Makes use of SES to send out email
 - Simple code
+- Not a single npm dependency :-)
 - Combine with EventBridge to schedule the lambda to get daily or weekly emails
  
